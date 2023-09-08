@@ -3,11 +3,11 @@
 3. beautiful
 4. Blue
 5. April
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 7
+7. mountains
+8. spoons
+9. fork
+10. bedroom
 11. soda
 12. rosy
 13. cotton
