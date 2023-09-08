@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Tanmay
+2. fast
+3. beautiful
+4. Blue
+5. April
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
