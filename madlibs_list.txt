@@ -13,9 +13,9 @@
 13. cotton
 14. racing
 15. fast
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. four
+17. years
+18. sleeping
+19. slowly
+20. rover
+21. Phanender
