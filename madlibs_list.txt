@@ -8,11 +8,11 @@
 8. Noun (Plural)
 9. Noun
 10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. soda
+12. rosy
+13. cotton
+14. racing
+15. fast
 16. Number
 17. Unit of Time
 18. Different Activity
